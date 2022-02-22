@@ -18,9 +18,7 @@ Node.js and Web3.js
 - Run the file "app.js" from the project on your IDE
 
 # Returns
-- The console should be displaying the returned transactions where
-- "data" returns the transaction hash on each incoming pending transaction 
-- with some of the following values: chainId, blockHash, blockNumber, from, to, value, nonce, gas, gasPrice, etc;
+- The console should be displaying the returned transactions where "data" returns the transaction hash on each incoming pending transaction with some of the following values: chainId, blockHash, blockNumber, from, to, value, nonce, gas, gasPrice, etc;
 
 - Example {blockHash: null, 
 -          blockNumber: null, 
@@ -28,6 +26,5 @@ Node.js and Web3.js
 -          gas: 70648, 
 -          gasPrice: '82000000000'}
 
-
-- "error" returns an object when an error in the subscription occurs.
+"error" returns an object when an error in the subscription occurs.
  
