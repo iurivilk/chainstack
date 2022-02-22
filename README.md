@@ -20,7 +20,8 @@ Node.js and Web3.js
 # Returns
 - The console should be displaying the returned transactions where "data" returns the transaction hash on each incoming pending transaction with some of the following values: chainId, blockHash, blockNumber, from, to, value, nonce, gas, gasPrice, etc;
 
-- Example {blockHash: null, 
+- Example 
+-          {blockHash: null, 
 -          blockNumber: null, 
 -          from: '0xF9A700595D77370C3Ca1412ADb07DFe81e51FEEe',
 -          gas: 70648, 
