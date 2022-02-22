@@ -4,7 +4,7 @@
 Node.js and Web3.js
 
 # Variables
-- On the line 4 of "app.js" you can set your WSS endpoint.
+- On the line 5 of "app.js" you can set your WSS endpoint.
 
 # Pre-requisites
 - Download and install [Node.js](https://nodejs.org/en/download/)
