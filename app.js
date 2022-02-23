@@ -3,8 +3,6 @@ const Web3 = require('web3');
 
 // Set the provider:
 const endpoint = ''; 
-// const endpoint = 'wss://ws-nd-217-779-663.p2pify.com/75711ca1278add0aa6e45ba64286b422'; 
-                 // Ethereum Mainnet AWS node created with Chainstack Developer plan
 
 // Adding a reconnect request_kwargs parameter in case of losing connection
 var options = {
